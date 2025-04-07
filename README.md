@@ -39,11 +39,11 @@ Follow these steps to get your environment up and running 🚀:
 
 ---
 
-## 5. Access PHP Container
+## 5. Access PHP.ZIP
 
 -   To **access** the PHP container's shell, execute the following command:
     ```bash
-    docker-compose exec php bash
+    Move php.zip to other folder => extract => add to path environment
     ```
     <img src="https://www.php.net/images/logos/new-php-logo.svg" width="50" height="50" style="vertical-align: middle; margin-left: 10px;" />
 
